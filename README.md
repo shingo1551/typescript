@@ -65,7 +65,7 @@
 
 ## エッジコンピューティング
 
-    lambda edge, deno deploy, ...
+    Lambda@Edge(Amazon CloudFront Functions), deno deploy, ...
 
 ## IoT (ARM)
 
