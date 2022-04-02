@@ -9,13 +9,13 @@
 
 ## 言語の特徴
 
-    - JavaScriptの上位互換
-    - 型の定義により、JavaScriptより安全で堅牢なコードが可能
-    - Object指向を採用しており、Javaからの移行がしやすい
-    - asyc/awaitにより、非同期IOが実装しやすい
-    - 型推論により、堅牢で有馬がら記述量が少ない
-    - 高度なType Guardにより、安全なDuck Typingを実現
-    - Object指向より、簡潔で柔軟で堅牢なプログラミングが可能
+- JavaScriptの上位互換
+- 型の定義により、JavaScriptより安全で堅牢なコードが可能
+- Object指向を採用しており、Javaからの移行がしやすい
+- asyc/awaitにより、非同期IOが実装しやすい
+- 型推論により、堅牢で有馬がら記述量が少ない
+- 高度なType Guardにより、安全なDuck Typingを実現
+- Object指向より、簡潔で柔軟で堅牢なプログラミングが可能
 
 ## どこで使用できるか？
 
@@ -38,6 +38,14 @@
 ### SPA, PWA
 
     ブラウザでありながら、Desk Top AppのようなUX
+
+- [Angular](https://angular.io)
+- [React](https://reactjs.org)
+- [Vue.js](https://vuejs.org)
+
+### Micro Frontend (Web Component)
+
+- [stencil](https://stenciljs.com)
 
 ## コマンドライン
 
