@@ -51,6 +51,12 @@
 
     Node.js, Denoで
 
+### Framework
+
+- [Fastify](https://www.fastify.io/)
+- [Prisma](https://www.prisma.io/)
+- [Fresh](https://fresh.deno.dev/)
+
 ### C10K問題 と Stop The World
 
     Apacheでは、メモリ不足によるC10K問題が起きた
@@ -75,12 +81,14 @@
 
 ### Version
 
-- PythonのTensorFlowは、Ver2.6
-- JavaScriptのTennsorFlow.jsは、Ver3.8
+    Versionの差は拡大中
+
+- PythonのTensorFlowは、Ver2.7
+- JavaScriptのTennsorFlow.jsは、Ver3.15
 
 ### JavaScriptの利点
 
-    WebRTCを利用することで、ブラウであっても、カメラやマイクから動画や音声を取得できる
+    WebRTCを利用することで、ブラウザであっても、カメラやマイクから動画や音声を取得できる
     今のスマートフォンには、高性能なGPUやニューラルエンジンが搭載されている
     よって、データをサーバに送ることなく、スマートフォンで処理できる
 
@@ -99,3 +107,11 @@
     高速なnativeのコードをbrowserで実行させる技術
     このSandboxを利用し、軽量コンテナとして、コマンドラインやサーバーレスで利用されるようになった
     AssemblyScriptでコンパイルすることで、TypeScriptでWebAssemblyを作成できる
+
+## 注目のDBサービス
+
+    AWS, GCP, Azureなどで管理されている
+
+- [MongoDB Atlas](https://www.mongodb.com/atlas)
+- [supabase](https://supabase.com/)
+- [fauna](https://fauna.com/)
