@@ -4,18 +4,18 @@
 
 ## 今、もっとも学ぶべき言語は?
 
-- JavaScriptは、求人が多い
-- TypeScriptは、需要が伸び勢いがあり、単価も高い
+- JavaScript は、求人が多い
+- TypeScript は、需要が伸び勢いがあり、単価も高い
 
 ## 言語の特徴
 
-- JavaScriptの上位互換
-- 型の定義により、JavaScriptより安全で堅牢なコードが可能
-- Object指向を採用しており、Javaからの移行がしやすい
-- asyc/awaitにより、非同期IOが実装しやすい
+- JavaScript の上位互換
+- 型の定義により、JavaScript より安全で堅牢なコードが可能
+- Object 指向を採用しており、Java からの移行がしやすい
+- asyc/await により、非同期 IO が実装しやすい
 - 型推論により、堅牢で有馬がら記述量が少ない
-- 高度なType Guardにより、安全なDuck Typingを実現
-- Object指向より、簡潔で柔軟で堅牢なプログラミングが可能
+- 高度な Type Guard により、安全な Duck Typing を実現
+- Object 指向より、簡潔で柔軟で堅牢なプログラミングが可能
 
 ## どこで使用できるか？
 
@@ -53,7 +53,7 @@
 
 - データ分析
 - 業務効率化, 自動化
-- Webスクレイピング
+- Web スクレイピング
 
 ## サーバ、クラウド
 
@@ -65,7 +65,7 @@
 - [Prisma](https://www.prisma.io/)
 - [Fresh](https://fresh.deno.dev/)
 
-### C10K問題 と Stop The World
+### C10K 問題 と Stop The World
 
     Apacheでは、メモリ不足によるC10K問題が起きた
     Nginxは、非同期IOにより　C10K問題を解決
@@ -91,10 +91,10 @@
 
     Versionの差は拡大中
 
-- PythonのTensorFlowは、Ver2.7
-- JavaScriptのTennsorFlow.jsは、Ver3.15
+- Python の TensorFlow は、Ver2.7
+- JavaScript の TennsorFlow.js は、Ver3.15
 
-### JavaScriptの利点
+### JavaScript の利点
 
     WebRTCを利用することで、ブラウザであっても、カメラやマイクから動画や音声を取得できる
     今のスマートフォンには、高性能なGPUやニューラルエンジンが搭載されている
@@ -110,16 +110,22 @@
 - Ionic
 - Electron
 
+## 2D, 3D, Game
+
+- [PixiJS](https://pixijs.com/)
+- [three.js](https://threejs.org/)
+- [babylon.js](https://www.babylonjs.com/)
+
 ## WebAssemply
 
     高速なnativeのコードをbrowserで実行させる技術
     このSandboxを利用し、軽量コンテナとして、コマンドラインやサーバーレスで利用されるようになった
     AssemblyScriptでコンパイルすることで、TypeScriptでWebAssemblyを作成できる
 
-## 注目のDBサービス
+## 注目の DB サービス
 
     AWS, GCP, Azureなどで管理されている
 
 - [MongoDB Atlas](https://www.mongodb.com/atlas)
 - [supabase](https://supabase.com/)
-- [fauna](https://fauna.com/)
+- [ArangoDB](https://www.arangodb.com/)
