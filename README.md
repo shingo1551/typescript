@@ -57,12 +57,16 @@
 
 ## サーバ、クラウド
 
-    Node.js, Denoで
+    Node.js
 
 ### Framework
 
 - [Fastify](https://www.fastify.io/)
 - [Prisma](https://www.prisma.io/)
+
+## Cloudflare, Deno Deploy
+
+- [Qwik](https://qwik.builder.io)
 - [Fresh](https://fresh.deno.dev/)
 
 ### C10K 問題 と Stop The World
