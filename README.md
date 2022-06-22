@@ -57,14 +57,12 @@
 
 ## サーバ、クラウド
 
-    Node.js
-
 ### Framework
 
 - [Fastify](https://www.fastify.io/)
 - [Prisma](https://www.prisma.io/)
 
-## Cloudflare, Deno Deploy
+### Cloudflare, Deno Deploy
 
 - [Qwik](https://qwik.builder.io)
 - [Fresh](https://fresh.deno.dev/)
