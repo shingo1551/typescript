@@ -35,10 +35,11 @@
 
 ## 2016
 
-jQuery 排除
+    jQuery 排除
 
 - Angular (TypeScript)
 - Svelte
+- Next.js, Nuxt.js (SSR)
 
 ## 2017
 
@@ -47,8 +48,6 @@ jQuery 排除
 - Stencil (Web Component)
 
 ## 2018
-
-SSR, SSG の台頭
 
 - Deno (Node.js の作者)
 
@@ -62,4 +61,4 @@ SSR, SSG の台頭
     Island Architecture (Partial Hydration)
 
 - Qwik (Angular, Stencil の作者)
-- Fresh (Deno の committer)
+- Fresh (Deno純正)
